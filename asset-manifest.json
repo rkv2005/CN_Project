@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/rkv2005/CN_Project.git/REPOSITORY_NAME/static/js/main.39961971.js",
-    "index.html": "/rkv2005/CN_Project.git/REPOSITORY_NAME/index.html",
-    "main.39961971.js.map": "/rkv2005/CN_Project.git/REPOSITORY_NAME/static/js/main.39961971.js.map"
+    "main.js": "/rkv2005/CN_Project/static/js/main.39961971.js",
+    "index.html": "/rkv2005/CN_Project/index.html",
+    "main.39961971.js.map": "/rkv2005/CN_Project/static/js/main.39961971.js.map"
   },
   "entrypoints": [
     "static/js/main.39961971.js"
